@@ -1,4 +1,4 @@
-## Welcome to Jeffs Growth Mindset Page
+# Welcome to Jeff's Growth Mindset Page
 
 You can use the [editor on GitHub](https://github.com/jinman36/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
