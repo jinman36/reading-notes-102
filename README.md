@@ -1,5 +1,7 @@
 # Welcome to Jeff's Growth Mindset Page
 
+**A person is never completely in a "growth" mindset or a "fixed" mindset. We can be very growth minded in some aspects of our liife, while we remain fixed in others.
+
 ```markdown
 Syntax highlighted code block
 
