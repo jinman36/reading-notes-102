@@ -3,14 +3,16 @@
 **A person is never completely in a "growth" mindset or a "fixed" mindset. We can be very growth minded in some aspects of our liife, while we remain fixed in others.
 
 ```markdown
-Syntax highlighted code block
+##Ways to become more growth minded
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- Enjoy the process
+  - let go of the results
+- **Believe** intelligence and talents can be developed.
+- **Believe** effort is the path to mastery.
+- **Believe** mistakes are an essential part of learning.
+- **View** failure as an opportunity to learn.
+- **Believe** failures are just temporary setbacks.
+- **Embrace** challenges.
 
 1. Numbered
 2. List
