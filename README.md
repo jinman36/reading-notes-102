@@ -16,5 +16,5 @@
 
 
 
-[Fixed Mindset vs. Growth Mindset] (https://thepeakperformancecenter.com/development-series/mental-conditioning/mindsets/fixed-mindset-vs-growth-mindset/)
+[Fixed Mindset vs. Growth Mindset](https://thepeakperformancecenter.com/development-series/mental-conditioning/mindsets/fixed-mindset-vs-growth-mindset/)
 ```
