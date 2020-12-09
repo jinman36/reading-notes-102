@@ -12,7 +12,12 @@
   
   #Day 1 Review
   
-  ##Markdown
+ ## Table of Contents
+ 
+ - [Markdown](#markdown)
+ - [Ordered Lists](#ordered-lists)
+  
+  ## Markdown
   
   Lightweight markup language
   
@@ -23,6 +28,8 @@
   
   - second syntax for for unordered list
   - just use hyphen
+  
+ ## Ordered Lists
   
   1. This is an ordered list
   1. Another 5
@@ -37,5 +44,15 @@
   
   [My Other Page](README.md)
   
+  <h1>Code blocks in Markdown</h1>
   
-  
+  ```html
+<h1>Some header</h1>
+<div>
+  <section></section>
+</div>
+```
+
+>There is no do, only try.
+
+
