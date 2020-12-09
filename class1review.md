@@ -35,7 +35,7 @@
   
   [Link Text Here](https://github.com/)
   
-  [My Other Page](/README.MD)
+  [My Other Page](README.md)
   
   
   
