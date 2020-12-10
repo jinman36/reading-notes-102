@@ -6,8 +6,8 @@
 1. [Vocabulary](#vocabulary)
 1. [Commands](#commands)
 1. [What is Git](#What-is-git)
-1. [Revisions and the cloud](#Revisions-and-the-cloud)
-1. [Review](#review)
+1. [Revisions and the cloud](#Revisions-and-the-Cloud)
+1. [Review](#Review)
 
 [Reading - Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
   

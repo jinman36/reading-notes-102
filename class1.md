@@ -5,8 +5,7 @@
  
  1. [Markdown](#markdown)
  1. [Ordered Lists](#ordered-lists)
- 1. [Review](#review)
-  
+   
   - Introductions
 
 - Growth Mindset
@@ -15,7 +14,7 @@
 - Pay attention to detail
   - do **not** forget the .md
 
-  ## Markdown
+## Markdown
   
   - Lightweight markup language
   
@@ -27,7 +26,7 @@
   - second syntax for for unordered list
   - just use hyphen
   
- ## Ordered Lists
+## Ordered Lists
   
   1. This is an ordered list
   1. Another 5

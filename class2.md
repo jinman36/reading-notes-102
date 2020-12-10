@@ -6,10 +6,10 @@
 1. [Vocabulary](#vocabulary)
 1. [Text Editors](#text-editors)
 1. [The Terminal](#the-terminal)
-1. [Shells](#the-shells)
+1. [Shells](#Shells)
 1. [Cheatsheet Commands](#Cheatsheet-Commands)
 1. [Casing](#casing)
-1. [The Power of Abstraction](#the-power-of-abstraction)
+1. [The Power of Abstraction](#The-Power-of-Abstraction)
 1. [Review](#review)
 
 ## Vocabulary
@@ -52,7 +52,7 @@ File Explorer tasks:
 - fish
 running inside of a terminal - different features for each
 
-# Cheatsheet Commands
+## Cheatsheet Commands
 - whoami
   - user name
 
@@ -123,7 +123,7 @@ running inside of a terminal - different features for each
 
 - linex and Unix alias commands
 
-# Casing
+## Casing
 - camelCase
 - PascalCase
 - snake_case
