@@ -72,6 +72,8 @@
 
 >git remote - v
    - tells us what remote repository on my local machine connected to
+   
+ > git push origin main
 
 ## What is git
 - Version control system
