@@ -11,13 +11,13 @@ Table of Contents
 
 ## Text editors
 
-word processors
+Word Processors
  - word
  - google docs
  - Apple pages
  - WordPerfect?
  
-Code editors
+Code Editors
 - Github Atom
 - MS VS code, Visual studio
 - Notepad++
@@ -29,11 +29,11 @@ CLI - Command Line Interface
 
 
 File Explorer tasks:
-- Fid files
-- Change direcories
+- Find files
+- Change directories
 - Move and copy pages
-- open files
-- make new files folders
+- Open files
+- Make new files folders
 
 ## Shells
 - C and Z shell
@@ -46,7 +46,8 @@ Cheat sheet command
 user name
 
 - echo "hello terminal"
-return message on screen
+return message on screen that is typed within ""
+
 - echo $user
 user name
 
@@ -56,7 +57,7 @@ user name
 present working directory - where are you working in your computer
 
 - ls
-differrnt folders and files in directory
+List - differnt folders and files in directory
 
 - cd documents
 change directory - documents
