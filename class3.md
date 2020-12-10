@@ -15,6 +15,9 @@
  ## Links
 - [Stack overflow - Coding help](https://stackoverflow.com/)
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- [Bash Cheat Sheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
+- [Flip the WEb Bash Cheatsheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet)
+
 
 ## Vocabulary
 - VCS
