@@ -74,13 +74,16 @@
 >git remote - v
    - tells us what remote repository on my local machine connected to
    
- > git push origin main
+> git push origin main
  
  ### If the remote repository has changes run the following
  
- > git fetch
+> git fetch
  
- > git pull
+> git pull
+
+>nano
+- can allow you to edit in editor
 
 ## What is git
 - Version control system

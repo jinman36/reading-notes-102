@@ -39,7 +39,6 @@ Code Editors
 
 CLI - Command Line Interface
 
-
 File Explorer tasks:
 - Find files
 - Change directories
@@ -130,11 +129,11 @@ running inside of a terminal - different features for each
 - snake_case
 - kebab-case
 
-Get familar witht he command line
+Get familar with the command line
 
 ## The Power of Abstraction
  leave of some irrelevant details
- You will worry about differnt problems at different layers
+ You will worry about different problems at different layers
  Not going to be experts at all layers
 
 Client side code - Code 102
