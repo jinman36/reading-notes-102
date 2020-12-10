@@ -48,17 +48,30 @@
 > pwd
 
 > cd
+
 >whoami
+
 >echo "hello world"
+
 >cat .thisismyhiddenfile
+
 >rm .thisismyhiddenfile
+
 >rmdir foo/
+
 >mk
+
 >grep
 - advanced -can be used to find bigger data
+
 > git add
+
 > git status
+
 >cd pro(tab) will auto complete
+
+>git remote - v
+   - tells us what remote repository on my local machine connected to
 
 ## What is git
 - Version control system
@@ -143,7 +156,7 @@ Command that can be ran on the terminal
 >cd directorys
  
  
- 
+
  
  
  
