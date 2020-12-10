@@ -15,3 +15,5 @@ Code 102
 - [Module 2](class2.md)
 
 - [Module 3](class3.md)
+
+[Github Page](jinman36.github.io/reading-notes/)
