@@ -33,7 +33,32 @@
 - Repository - collection of navigatable history
 
 ## Commands
->git status
+> git status
+
+> ls
+
+> ls -al
+
+> ls -a
+
+> ls -la
+
+> man ls
+
+> pwd
+
+> cd
+>whoami
+>echo "hello world"
+>cat .thisismyhiddenfile
+>rm .thisismyhiddenfile
+>rmdir foo/
+>mk
+>grep
+- advanced -can be used to find bigger data
+> git add
+> git status
+>cd pro(tab) will auto complete
 
 ## What is git
 - Version control system
@@ -110,7 +135,12 @@ gitflow:acp
 - this sends any commits (the snapshots of your code) to github
 - go to your repo on Github, and look for your files
 
+Command that can be ran on the terminal
+> code .
+- the (.) is a file name
+- (./Documents) will open VS in the documents directory
 
+>cd directorys
  
  
  
