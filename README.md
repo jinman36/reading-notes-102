@@ -3,6 +3,7 @@
 **A person is never completely in a "growth" mindset or a "fixed" mindset. We can be very growth minded in some aspects of our liife, while we remain fixed in others.**
 
 ```markdown
+
 ## Ways to become more growth minded
 
 - Enjoy the process
