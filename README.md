@@ -6,6 +6,7 @@ Code 102
 
 
 ## Links to Class Notes
+- [Introduction](ABOUTME.md)
 
 - [Growth Mindset](growth_mindset.md)
 
@@ -18,4 +19,4 @@ Code 102
 [Github Page](jinman36.github.io/reading-notes/)
 
 
-![Enjoying the Sun in front of an old MiG](IMG_1380.jpg)
+
