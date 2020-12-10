@@ -6,6 +6,8 @@ Table of Contents
 - [Vocabulary](#vocabulary)
 - [Text Editors](#text-editors)
 - [The Terminal](#the-terminal)
+- [Shells](#the-shells)
+- [Cheatsheet Commands](#Cheatsheet-Commands)
 - [Casing](#casing)
 - [The Power of Abstraction](#the-power-of-abstraction)
 - [Review](#review)
@@ -51,73 +53,74 @@ File Explorer tasks:
 - fish
 running inside of a terminal - different features for each
 
-Cheat sheet command
+# Cheatsheet Commands
 - whoami
-user name
+  - user name
 
 - echo "hello terminal"
-return message on screen that is typed within ""
+  - return message on screen that is typed within ""
 
 - echo $user
-user name
+  - user name
 
 - echo $path
 
 - pwd
-present working directory - where are you working in your computer
+  - present working directory - where are you working in your computer
 
 - ls
-List - differnt folders and files in directory
+  - List - differnt folders and files in directory
 
 - cd documents
-change directory - documents
+  - change directory - documents
 
 - clear
-remove everything from screen
+  - remove everything from screen
 
 - ls -l
 
 -ls -a
-shows hidden folders .hiddenfiles
+  - shows hidden folders .hiddenfiles
 
 - ls .
-cf projects
+  - cf projects
 
 -ls ..
 
 - ls ../pictures
-relative to where I'm at right now ->from here to whats in pictures folder
+  - relative to where I'm at right now ->from here to whats in pictures folder
 
 - cd.. / Pictures
-moves you to pictures folder
+  - moves you to pictures folder
 
 - cd documents
-change directory -. doc
+  - change directory -. doc
 
 - mkdir subDir
-make directory
+  - make directory
 
 - touch readme.md
 
 - vim
-remote into remote server
+  - remote into remote server
 
 (:q) enter) will get you out
 
 - cat README.md | grep "README.md"
 
 - rm README.md
-removes removes folder - skips trashcan
+  - removes removes folder - skips trashcan
 
-rm will not remove directory
+  - rm will not remove directory
+  
 - rm -rf
-(rm) remove (-r) recusivly, all children (f) force
+  - (rm) remove (-r) recusivly, all children (f) force
 
 -man rm/ls/cd
-explains the command
+  - explains the command
 
 - chmod u+x myscript.sh
-be careful of chmod 
+  - be careful of chmod 
 
 - linex and Unix alias commands
 
