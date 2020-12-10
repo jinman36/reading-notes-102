@@ -1,20 +1,11 @@
-# Welcome to Jeff's Growth Mindset Page
+# Welcome to Jeff's Reading Notes Page for:
 
-**A person is never completely in a "growth" mindset or a "fixed" mindset. We can be very growth minded in some aspects of our liife, while we remain fixed in others.**
+Code 102
+
+**Enjoy the Process.**
 
 ```markdown
 
-## Ways to become more growth minded
+## Links to Class Notes
 
-- Enjoy the process
-  - let go of the results
-- **Believe** intelligence and talents can be developed.
-- **Believe** effort is the path to mastery.
-- **Believe** mistakes are an essential part of learning.
-- **View** failure as an opportunity to learn.
-- **Believe** failures are just temporary setbacks.
-- **Embrace** challenges.
-
-
-
-[Fixed Mindset vs. Growth Mindset](https://thepeakperformancecenter.com/development-series/mental-conditioning/mindsets/fixed-mindset-vs-growth-mindset/).
+- [Growth Mindset](growth_mindset.md)
