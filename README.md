@@ -19,4 +19,4 @@ Code 102
 [Github Page](jinman36.github.io/reading-notes/)
 
 
-![Enjoying the Sun](img_1380.jpg)
+![Enjoying the Sun in front of an old MiG](img_1380.jpg)
