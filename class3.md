@@ -1,15 +1,14 @@
 # Day 3 Notes
 ### Date 12-9-20
 
-[Reading - Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
-
 ## Table of Contents
-- [Links](#links)
-- [Vocabulary](#vocabulary)
-- [Commands](#commands)
-- [What is Git](#What-is-git)
-- [Revisions and the cloud](#Revisions-and-the-cloud)
+1. [Links](#links)
+1. [Vocabulary](#vocabulary)
+1. [Commands](#commands)
+1. [What is Git](#What-is-git)
+1. [Revisions and the cloud](#Revisions-and-the-cloud)
 
+[Reading - Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
   
  ## Links
 - [Stack overflow - Coding help](https://stackoverflow.com/)
@@ -17,7 +16,6 @@
 - [Bash Cheat Sheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
 - [Flip the WEb Bash Cheatsheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet)
 - [commit best practices](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet)
-
 
 ## Vocabulary
 - VCS

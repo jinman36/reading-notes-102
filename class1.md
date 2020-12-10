@@ -1,26 +1,24 @@
 # Day 1
-# Date 12-7-20
-
-- Introductions
+### Date 12-7-20
+  
+## Table of Contents
+ 
+ 1. [Markdown](#markdown)
+ 1. [Ordered Lists](#ordered-lists)
+  
+  - Introductions
 
 - Growth Mindset
   - Expect to fail
 
 - Pay attention to detail
   - do **not** forget the .md
-  
-  #Day 1 Review
-  
- ## Table of Contents
- 
- - [Markdown](#markdown)
- - [Ordered Lists](#ordered-lists)
-  
+
   ## Markdown
   
-  Lightweight markup language
+  - Lightweight markup language
   
-  Small file size, dosent have styling, focus on syntax.
+  - Small file size, dosent have styling, focus on syntax.
   
   *This will create list item
   *To make a second item

@@ -1,16 +1,16 @@
-# Class 2 
-# Date 12-8-20
+# Day 2 
+### Date 12-8-20
 
-Table of Contents
+## Table of Contents
 
-- [Vocabulary](#vocabulary)
-- [Text Editors](#text-editors)
-- [The Terminal](#the-terminal)
-- [Shells](#the-shells)
-- [Cheatsheet Commands](#Cheatsheet-Commands)
-- [Casing](#casing)
-- [The Power of Abstraction](#the-power-of-abstraction)
-- [Review](#review)
+1. [Vocabulary](#vocabulary)
+1. [Text Editors](#text-editors)
+1. [The Terminal](#the-terminal)
+1. [Shells](#the-shells)
+1. [Cheatsheet Commands](#Cheatsheet-Commands)
+1. [Casing](#casing)
+1. [The Power of Abstraction](#the-power-of-abstraction)
+1. [Review](#review)
 
 ## Vocabulary
 
