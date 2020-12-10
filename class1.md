@@ -5,6 +5,7 @@
  
  1. [Markdown](#markdown)
  1. [Ordered Lists](#ordered-lists)
+ 1. [Review](#review)
   
   - Introductions
 
@@ -39,7 +40,7 @@
   
   [Link Text Here](https://github.com/)
   
-  [My Other Page](README.md)
+  [Back to main Page](README.md)
   
   <h1>Code blocks in Markdown</h1>
   
@@ -53,3 +54,5 @@
 >There is no do, only try.
 
 
+[Back to Top](#Table of Contents)
+[Back to main Page](README.md)

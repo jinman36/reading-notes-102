@@ -7,6 +7,7 @@
 1. [Commands](#commands)
 1. [What is Git](#What-is-git)
 1. [Revisions and the cloud](#Revisions-and-the-cloud)
+1. [Review](#review)
 
 [Reading - Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
   
@@ -172,10 +173,11 @@ Command that can be ran on the terminal
   - Github
  
  
-
+## Review
  
  
  
  
  
- 
+ [Back to Top](#Table of Contents)
+ [Back to main Page](README.md)
