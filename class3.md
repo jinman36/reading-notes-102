@@ -4,13 +4,12 @@
 [Reading - Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 ## Table of Contents
-[Vocabulary](#vocabulary)
+- [Links](#links)
+- [Vocabulary](#vocabulary)
+- [Commands](#commands)
+- [What is Git](#What-is-git)
+- [Revisions and the cloud](#Revisions-and-the-cloud)
 
-## Revisions and the Cloud
-
-- Sharing Code
-  - Git
-  - Github
   
  ## Links
 - [Stack overflow - Coding help](https://stackoverflow.com/)
@@ -165,7 +164,11 @@ Command that can be ran on the terminal
 - the (.) is a file name
 - (./Documents) will open VS in the documents directory
 
->cd directorys
+## Revisions and the Cloud
+
+- Sharing Code
+  - Git
+  - Github
  
  
 
