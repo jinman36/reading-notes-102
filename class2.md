@@ -3,11 +3,21 @@
 
 Table of Contents
 
+- [Vocabulary](#vocabulary)
 - [Text Editors](#text-editors)
 - [The Terminal](#the-terminal)
 - [Casing](#casing)
 - [The Power of Abstraction](#the-power-of-abstraction)
 - [Review](#review)
+
+## Vocabulary
+
+- CLI (Command Line Interface)
+- Terminal 
+- GUI (Graphical User Interface)
+- IDE (Integrated development environment)
+- VS Code (Visual Studio code)
+- Abstraction
 
 ## Text editors
 
