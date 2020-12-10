@@ -104,7 +104,13 @@ gitflow:acp
  - this will make the snapshot in the history of the project
  - (-m) specifies the messge that will be added to the commit
  
- >
+ > git push origin master
+- counting objects: 6, done
+
+- this sends any commits (the snapshots of your code) to github
+- go to your repo on Github, and look for your files
+
+
  
  
  
