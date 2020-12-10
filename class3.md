@@ -3,6 +3,21 @@
 
 [Reading - Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
-# Revisions and the Cloud
+## Table of Contents
+[Vocabulary](#vocabulary)
+
+## Revisions and the Cloud
+
+- Sharing Code
+  - Git
+  - Github
 
 
+## Vocabulary
+- VCS
+- **Git vs Github**
+- Local vs remote
+- clone
+- commit
+- **ACP (Add, Commit, Push)**
+- deployment
