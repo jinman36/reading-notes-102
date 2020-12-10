@@ -59,7 +59,11 @@
 
 >rmdir foo/
 
->mk
+>mkdir
+ - make directory
+ 
+ >touch foo/bar
+ - will add the folder bar to the directory foo
 
 >grep
 - advanced -can be used to find bigger data
@@ -74,6 +78,12 @@
    - tells us what remote repository on my local machine connected to
    
  > git push origin main
+ 
+ ### If the remote repository has changes run the following
+ 
+ > git fetch
+ 
+ > git pull
 
 ## What is git
 - Version control system
