@@ -5,6 +5,8 @@ Table of Contents
 - [Text Editors](#text-editors)
 - [The Terminal](#the-terminal)
 - [Casing](#casing)
+- [The Power of Abstraction](#the-power-of-abstraction)
+- [Review](#review)
 
 ## Text editors
 
@@ -134,6 +136,9 @@ Layers
 ABove
 and
 Below
+
+
+## Review
 
 
 
