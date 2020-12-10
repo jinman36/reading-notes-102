@@ -10,11 +10,11 @@ Code 102
 
 - [Growth Mindset](growth_mindset.md)
 
-- [Module 1](class1.md)
+- [Learning markdown](class1.md)
 
-- [Module 2](class2.md)
+- [The Coders Computer](class2.md)
 
-- [Module 3](class3.md)
+- [Revisions and the Cloud](class3.md)
 
 [Github Page](jinman36.github.io/reading-notes/)
 
