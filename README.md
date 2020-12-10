@@ -17,3 +17,6 @@ Code 102
 - [Module 3](class3.md)
 
 [Github Page](jinman36.github.io/reading-notes/)
+
+
+![Enjoying the Sun](img_1380.jpg)
