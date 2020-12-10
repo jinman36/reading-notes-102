@@ -1,6 +1,5 @@
-# Topics Learned
-
-## Day 1
+# Day 1
+# Date 12-7-20
 
 - Introductions
 
