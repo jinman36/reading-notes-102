@@ -32,6 +32,8 @@
 - Staging area
 - Repository - collection of navigatable history
 
+## Commands
+>git status
 
 ## What is git
 - Version control system
@@ -63,3 +65,52 @@
 - special lebel - HEAD - means you are here
 - usually give a snapshot a label called a message
 
+GitHub
+- A hub for a Git repository
+- your code in the cloud
+- A way to share code with others
+- an online palsce to store code (backup is good)
+- it uses GIT to help you manage your teams work
+  - Version Tracking
+  - reviewing changes
+  
+- git +github = awesome
+
+- git (version control)
+- github(online storage hub)
+ - open source coding is on Github (tribal knowledge)
+ 
+ Javascript was orginally only allowed to run in a browser.. nodejs allows it to be run on the desktop
+
+## similar products to github
+- bitbucket
+- aws code commit
+- git lab
+- assembla (GIT, SVN, Perforce)
+
+gitflow:acp
+  - add, commit, push
+ - common pattern we will use for git that can be maintained
+   - do not want to allow version gaps
+>git status
+ - git status will not change any files
+>code
+
+> git add README.md
+ - git add (file name)
+ - unstaged changes - adds them to staging area
+ 
+ >git commit -m "Add message to notepad"
+ - this will make the snapshot in the history of the project
+ - (-m) specifies the messge that will be added to the commit
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
