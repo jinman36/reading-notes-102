@@ -94,3 +94,6 @@ Image: 300x200 - some pixel ranges
 
  links
  [HTML article](w3schools.com/html/html5_semantic_elements.asp)
+
+
+ 
