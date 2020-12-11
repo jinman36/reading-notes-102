@@ -16,7 +16,7 @@ Code 102
 
 - [Revisions and the Cloud](class3.md)
 
-- [Structure Web Pages With HTML](class5.md)
+- [Structure Web Pages With HTML](class4.md)
 
 [Github Page](jinman36.github.io/reading-notes/)
 
