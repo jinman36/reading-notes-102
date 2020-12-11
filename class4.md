@@ -1,5 +1,0 @@
-
-Semantics
-Wire frame
-HTML
-
