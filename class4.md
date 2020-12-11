@@ -17,6 +17,8 @@
 - Attribute
 - Structure vs Presentation
 
+- ** Avoid nested repositorys**
+
 ## HTML
 - Hyper text Markup Language
 - assigns meaning to words
@@ -50,3 +52,45 @@
   - Navbar1,2,3
 
 Image: 300x200 - some pixel ranges
+
+## Order of operations
+- wire diagram
+- text editor
+- clone
+- Lorem Ipsum 
+- word wrap (alt + Z)
+- [image search](placeimg.com)
+- [placeholder](placehoder.com) - add dimensions at end for pixels
+- `Live server filename.html
+
+### layout the page - top to bottom / left to right
+ - <DOCtype html>
+ <html>
+    <head>
+        <title>title of article1</title>
+    </head>
+    <body>
+        <header>
+            <h1> title of article1 </h1>
+            <nav>
+                <ul>
+                    <li>Navbtn1</li>
+            </ul>
+        </nav>
+        </header>
+        <main>
+            <section>
+                <h2> title </h2>
+                <img src="picture url">
+                <p></p>
+            </section>
+        </main>
+        <footer>&copy; Title of article </footer>
+
+    </body>
+ </html>
+ - 
+
+
+ links
+ [HTML article](w3schools.com/html/html5_semantic_elements.asp)
