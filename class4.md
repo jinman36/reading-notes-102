@@ -3,6 +3,7 @@
 
 ## Table of Contents
 1. [Vocabulary](#vocabulary)
+1. [HTML](#HTML)
 
 ## Vocabulary
 - HTML / Markup
@@ -31,3 +32,21 @@
 -Seperations of concerns - boil down problems to basic elements
 - Presentation / styling / CSS
 - Logic / Interactivity/ javascript
+
+## Wireframe
+-notepads/ white boards/ pens/ draw.io/
+- structure
+- consistency
+- tags
+
+## Parts of a web page
+- Head
+  - meta data - hold all the info
+- Header
+- Main
+- Footer
+
+- Navigation - can go anywhere
+  - Navbar1,2,3
+
+Image: 300x200 - some pixel ranges
