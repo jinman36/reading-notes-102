@@ -64,31 +64,31 @@ Image: 300x200 - some pixel ranges
 - `Live server filename.html
 
 ### layout the page - top to bottom / left to right
- - <DOCtype html>
- <html>
-    <head>
-        <title>title of article1</title>
-    </head>
-    <body>
-        <header>
-            <h1> title of article1 </h1>
-            <nav>
-                <ul>
-                    <li>Navbtn1</li>
-            </ul>
-        </nav>
-        </header>
-        <main>
-            <section>
-                <h2> title </h2>
-                <img src="picture url">
-                <p></p>
-            </section>
-        </main>
-        <footer>&copy; Title of article </footer>
+ `- <DOCtype html>
+ `<html>
+ `   <head>
+  `      <title>title of article1</title>
+ `   </head>
+ `   <body>
+ `       <header>
+ `           <h1> title of article1 </h1>
+ `           <nav>
+ `               <ul>
+ `                   <li>Navbtn1</li>
+ `           </ul>
+ `       </nav>
+`        </header>
+`        <main>
+ `           <section>
+ `               <h2> title </h2>
+``                <img src="picture url">
+`                <p></p>
+`            </section>
+`        </main>
+ `       <footer>&copy; Title of article </footer>
 
-    </body>
- </html>
+`    </body>
+` </html>
  - 
 
 
