@@ -81,11 +81,14 @@ Image: 300x200 - some pixel ranges
  - Wireframe helped build HTML code
  - resources + tools were very helpful
  - Learning to use the terminal - getting comfortable with the terminal
- 
+
 
 ### - What did not go well?
 - Doing frequent pushes/ commits
-- 
+- getting the correct sizing of pictures
+  - getting the styling correct
+- inefficeient workflow
+
 ### - What do we already know?
 
 
