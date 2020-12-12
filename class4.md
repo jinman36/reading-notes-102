@@ -74,11 +74,19 @@ Image: 300x200 - some pixel ranges
 ### layout the page - top to bottom / left to right
 [HTML Notes](#html-notes.md)
 
- links
- [HTML article](w3schools.com/html/html5_semantic_elements.asp)
+## Review - Wire frames + html
 
+### - What went well?
+ - Previous experience with Xanga, myspace
+ - Wireframe helped build HTML code
+ - resources + tools were very helpful
+ - Learning to use the terminal - getting comfortable with the terminal
+ 
 
-## Review
+### - What did not go well?
+- Doing frequent pushes/ commits
+- 
+### - What do we already know?
 
 
 - [Back to Top](#Table-of-Contents)
