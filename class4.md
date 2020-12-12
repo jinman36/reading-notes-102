@@ -1,9 +1,11 @@
- # Day 4 Notes
+# Day 4 Notes
 ### Date 12-10-20
 
 ## Table of Contents
 1. [Vocabulary](#vocabulary)
 1. [HTML](#HTML)
+1. [Links from Notes](#links)
+1. [Review](#review)
 
 ## Vocabulary
 - HTML / Markup
@@ -18,6 +20,12 @@
 - Structure vs Presentation
 
 - ** Avoid nested repositorys**
+
+## links
+- [image search](placeimg.com)
+- [placeholder](placehoder.com)
+- [HTML Notes](#html-notes.md)
+- [HTML article](w3schools.com/html/html5_semantic_elements.asp)
 
 ## HTML
 - Hyper text Markup Language
@@ -61,39 +69,17 @@ Image: 300x200 - some pixel ranges
 - word wrap (alt + Z)
 - [image search](placeimg.com)
 - [placeholder](placehoder.com) - add dimensions at end for pixels
-- `Live server filename.html
+- Live server filename.html
 
 ### layout the page - top to bottom / left to right
- `- <DOCtype html>
- `<html>
- `   <head>
-  `      <title>title of article1</title>
- `   </head>
- `   <body>
- `       <header>
- `           <h1> title of article1 </h1>
- `           <nav>
- `               <ul>
- `                   <li>Navbtn1</li>
- `           </ul>
- `       </nav>
-`        </header>
-`        <main>
- `           <section>
- `               <h2> title </h2>
-``                <img src="picture url">
-`                <p></p>
-`            </section>
-`        </main>
- `       <footer>&copy; Title of article </footer>
-
-`    </body>
-` </html>
- - 
-
+[HTML Notes](#html-notes.md)
 
  links
  [HTML article](w3schools.com/html/html5_semantic_elements.asp)
 
 
- 
+## Review
+
+
+- [Back to Top](#Table-of-Contents)
+- [Back to main Page](README.md)
