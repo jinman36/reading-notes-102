@@ -18,6 +18,12 @@ Code 102
 
 - [Structure Web Pages With HTML](class4.md)
 
+- [Basic HTML Structure](html-notes)
+
+- [Recipe Page](jinman36.github.io/recipe-page/)
+
+- [Design web pages with CSS](class5.md)
+
 [Github Page](jinman36.github.io/reading-notes/)
 
 
