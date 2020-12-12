@@ -2,10 +2,11 @@
 <html>
     <head>
         <title>Food For BBQs</title>
+        <link type="text/css" rel="stylesheet" href="stylesheet.css">
     </head>
     <body>
         <header>
-            <h1>Food For BBQs</h1>
+            <h1 class="sm-black-outline">Food For BBQs</h1>
             <nav>
                 <ul>
                     <li>
@@ -36,11 +37,3 @@
         </footer>
     </body>
 </html>
-
-.dot {
-height: 25px;
-width: 25px;
-background-color: #bbb;
-border-radius: 50%;
-display: inline-block;
-}
