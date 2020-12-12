@@ -8,7 +8,9 @@
 
 [CSS links](w3schools.com/css/css_boxmodel.asp)
 [Color Wheel](https://color.adobe.com/create/color-wheel)
-https://www.w3schools.com/colors/colors_picker.asp
+[Colors!!!](https://www.w3schools.com/colors/colors_picker.asp
+[Specific color wheel](https://color.adobe.com/create/color-wheel)
+
 
 ## Vocabulary
 - CSS - cascading style sheets
