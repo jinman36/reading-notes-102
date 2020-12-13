@@ -2,14 +2,14 @@
 ### Date 12-12-20
 
 ## Table of Contents
-[Vocabulary](#vocabulary)
-[What do we know about CSS](#What-do-we-know-about-CSS)
+- [Vocabulary](#vocabulary)
+- [What do we know about CSS](#What-do-we-know-about-CSS)
 
 
-[CSS links](w3schools.com/css/css_boxmodel.asp)
-[Color Wheel](https://color.adobe.com/create/color-wheel)
-[Colors!!!](https://www.w3schools.com/colors/colors_picker.asp
-[Specific color wheel](https://color.adobe.com/create/color-wheel)
+- [CSS links](w3schools.com/css/css_boxmodel.asp)
+- [Color Wheel](https://color.adobe.com/create/color-wheel)
+- [Colors!!!](https://www.w3schools.com/colors/colors_picker.asp
+- [Specific color wheel](https://color.adobe.com/create/color-wheel)
 
 
 ## Vocabulary

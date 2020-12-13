@@ -44,3 +44,4 @@ there are words that are reserved for js script operators
 window,prompt - gives a return value
 
 
+- [Back to main Page](README.md)
