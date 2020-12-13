@@ -8,7 +8,7 @@ Code 102
 ## Links to Class Notes
 - [Introduction](ABOUTME.md)
 
-- [Growth Mindset](growth_mindset.md)
+- [Growth Mindset](Growth_Mindset.md)
 
 - [Learning markdown](class1.md)
 
