@@ -3,7 +3,7 @@
 Code 102
 
 **Enjoy the Process.**
-
+- [Recipe Page](jinman36.github.io/recipe-page/)
 
 ## Links to Class Notes
 - [Introduction](ABOUTME.md)
@@ -20,9 +20,11 @@ Code 102
 
 - [Basic HTML Structure](html-notes)
 
-- [Recipe Page](jinman36.github.io/recipe-page/)
-
 - [Design web pages with CSS](class5.md)
+
+- [Dynamic web pages with JavaScript](class6.md)
+
+
 
 [Github Page](jinman36.github.io/reading-notes/)
 

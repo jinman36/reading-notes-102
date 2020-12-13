@@ -2,16 +2,19 @@
 ### Date 12-12-20
 
 ## Table of Contents
+[Links](#links)
+[Vocabulary](#vocabulary)
+[Introduction to JavaScript - see Recipe-page for JS work](#javascript)
+[Recipe Page](https://jinman36.github.io/Recipe-page/)
 
 
-Links
-https://www.w3schools.com/howto/howto_css_clearfix.asp
-https://www.w3schools.com/css/css_inline-block.asp#:~:text=Also%2C%20with%20display%3A%20inline%2D,sit%20next%20to%20other%20elements
+## Links
+[CSS Clearfix](https://www.w3schools.com/howto/howto_css_clearfix.asp)
+[CSSInline Block](https://www.w3schools.com/css/css_inline-block.asp#:~:text=Also%2C%20with%20display%3A%20inline%2D,sit%20next%20to%20other%20elements)
+[reserved names](www.w3schools.com/js/js_reserved.asp)
+[Js developer page](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
+[js operators](tutorialsteacher.com/javascript/javascript-operators)
 
-
-Javascript
-- recap from code 101
- - discussion excersize
 
 ## Vocabulary
 - Javascript
@@ -20,7 +23,10 @@ Javascript
 - data types
 - variable
 
-Wireframe - where can we add something dynamic
+## Javascript
+- recap from code 101
+- discussion excersize
+- Wireframe - where can we add something dynamic
 
 add at least three dynamic components to our webpage
 - one based on user input
@@ -30,11 +36,10 @@ add at least three dynamic components to our webpage
 \confirm
 
 
-there are words that are reserved for 
+there are words that are reserved for js script operators
 
-[reserved names](www.w3schools.com/js/js_reserved.asp)
-[Js developer page](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
-[js operators](tutorialsteacher.com/javascript/javascript-operators#)
+
+
 
 window,prompt - gives a return value
 
