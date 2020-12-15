@@ -1,4 +1,4 @@
-# Day 5 Notes
+# Day 5 Notes - Class 6
 ### Date 12-12-20
 
 ## Table of Contents
@@ -6,6 +6,7 @@
 [Vocabulary](#vocabulary)
 [Introduction to JavaScript - see Recipe-page for JS work](#javascript)
 [Recipe Page](https://jinman36.github.io/Recipe-page/)
+[How Computers Work Assignment](#How-Computers-Work)
 
 
 ## Links
@@ -38,6 +39,32 @@ add at least three dynamic components to our webpage
 
 there are words that are reserved for js script operators
 
+## How Computers Work
+
+### How do the hardware and software communicate?
+- CPU - TH emaster chip that control all the other parts of the comp
+- has smaller parts to break down its workflow
+- circuits control math and logic
+- circuits to manage sending and recieving
+- manges different circuits to do each job
+  - add command tells the cpu to add a file
+  - save will tell a differnt set of circuits tp save
+  - This is controled by binary code
+No one writes code in binary
+- Major programming languages
+   - Python
+   - Ruby
+   - Blockly
+
+These all let you code binary commands in an english "like" format
+
+### Operating System
+- Master program manages how the hardware operates the software on a computer
+- the operating system controls loading and running of software
+- the operating quickly switching between programs
+- binary code - 
+
+-Bill Gates says I should learn to code.
 
 
 
