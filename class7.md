@@ -2,16 +2,15 @@
 ### Date 12-14-20
 
 ## Table of Contents
-[Vocabulary](#Vocabulary)
-[Links](#Links)
-## Class Notes
-# Script
-Expressions
+- [Vocabulary](#Vocabulary)
+- [Links](#Links)
+- [Class Notes](#Class-Notes)
+- [Script](#Script)
+- [Expressions](#Expressions)
 ## Arguement
 ## Operators 
 # Functions
-# Arguement
-## Code manipulation - Lab
+- [Code Manipulation](#Code-manipulation)
 
 ## Vocabulary
 Var()
@@ -59,7 +58,7 @@ Function - key word to creat a new funtion
 ## Arguement
 -Arguement refers to actual input at function call
 
-## Code manipulation - Lab
+## Code manipulation
 
 -Create a meassage variable to be used as an argument for the promt() function
 
