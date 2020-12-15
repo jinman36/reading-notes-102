@@ -70,12 +70,17 @@ These all let you code binary commands in an english "like" format
 
 - Code Review for Anthony Williams
 
-line 4 - decalre the variable
-line 7 - prints the message to the console log
+-line 4 - decalre the variable
+- line 7 - prints the message to the console log
 
-line 10 - decalres variable to hold prompt message
-line 13 - call the prompt function and save return value in variable
-line 16 - Print the response to console
+- line 10 - decalres variable to hold prompt message
+- line 13 - call the prompt function and save return value in variable
+- line 16 - Print the response to console
+
+- if user input matches "string" - set an alert message 
+  - cosole log is not an important aspect to anything except puttinng words on a form - but not retaining information
+
+document is a variable all js files have - document.style.backgroundcolor ( all of these variables have already been created)
 
 window,prompt - gives a return value
 
