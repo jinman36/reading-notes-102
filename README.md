@@ -26,7 +26,7 @@ Code 102
 
 - [Programming with JavaScript](class7.md)
 
-- [Operators adn Loops](class8.md)
+- [Operators and Loops](class8.md)
 
 
 
